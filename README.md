@@ -67,6 +67,10 @@ Drone'lar, başlangıçta aynı anda havalanır, çevredeki engelleri analiz ede
 
 ---
 
+## 📷 Örnek Simülasyon Videosu
+
+(https://drive.google.com/file/d/1-nwyG1aDQ31Hja5np0IugW4lD8TegjEy/view?usp=sharing)
+
 ## ✅ Sonuç
 
 Bu proje, AirSim ortamında görüntü işleme temelli, çarpışmadan kaçınabilen, dinamik olarak yön belirleyebilen otonom drone kontrol sistemlerinin temelini başarıyla ortaya koymuştur.
